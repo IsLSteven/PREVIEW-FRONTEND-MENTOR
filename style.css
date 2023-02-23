@@ -105,7 +105,7 @@ button{
     }
 
     .botao:hover {
-        background: linear-gradient(to bottom,hsl(252, 100%, 67%),hsl(241, 81%, 54%)
+        background: #1a4031
         );
     }
 
